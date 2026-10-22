@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.venv-*/
+venv/
+
+# PyInstaller build output
+build/
+dist/
+*.spec.bak
+
+# Packaged applications and archives
+*.app/
+*.exe
+*.dll
+*.pyd
+*.so
+*.dylib
+*.zip
+*.7z
+*.rar
+*.dmg
+
+# Local runtime data and logs
+wechat_signup_app.json
+wechat_signup_app.log
+wechat_coordinate_config.json
+wechat_coordinate_signup.log
+selftest_report.txt
+
+# Local cleanup archives and OS metadata
+_归档_*/
+.DS_Store
+Thumbs.db
+
